@@ -7,7 +7,6 @@ Domaines multimédias ; session 1
 # Pourquoi j'ai choisi TIM
 - Motivations
 - Intérêts
-- Inspirations
 # Profil
 **Hybride**
 - Confort ; théorie
